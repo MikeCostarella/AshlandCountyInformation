@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "Data Dynamics (DDTI)";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Ashland County (Official Site)", category: "Government", subcategory: "County", url: "https://www.ashlandcountyoh.us/", description: "Official Ashland County government website — offices, services, and directory." },
